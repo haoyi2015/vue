@@ -1,0 +1,66 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+    {
+      "tid": "1",
+      "title": "一定要来的一带一路创业",
+      "thumbnail": "/static/img/adv.jpg",
+      "advertiser": "abc1",
+      "read_profit": "8",
+      "type": "0",
+      "status": "1",
+      "created": "1452139945"
+    },
+    {
+      "tid": "2",
+      "title": "看看你不确定吗？",
+      "thumbnail": "/static/img/620.jpg",
+      "advertiser": "abc2",
+      "status": "0",
+      "type": "1",
+      "read_profit": "5",
+      "created": "1452094126"
+    },
+    {
+      "tid": "3",
+      "title": "一定要来的一带一路创业",
+      "thumbnail": "/static/img/adv.jpg",
+      "advertiser": "abc1",
+      "read_profit": "8",
+      "type": "0",
+      "status": "1",
+      "created": "1452139945"
+    },
+    {
+      "tid": "4",
+      "title": "看看你不确定吗？",
+      "thumbnail": "/static/img/622.jpg",
+      "advertiser": "abc2",
+      "status": "0",
+      "type": "1",
+      "read_profit": "5",
+      "created": "1452094126"
+    },
+    {
+      "tid": "5",
+      "title": "一定要来的一带一路创业",
+      "thumbnail": "/static/img/adv.jpg",
+      "advertiser": "abc1",
+      "read_profit": "8",
+      "type": "0",
+      "status": "1",
+      "created": "1452139945"
+    },
+    {
+      "tid": "6",
+      "title": "看看你不确定吗？",
+      "thumbnail": "/static/img/621.jpg",
+      "advertiser": "abc2",
+      "status": "0",
+      "type": "1",
+      "read_profit": "5",
+      "created": "1452094126"
+    }
+  ]
+}
