@@ -5,7 +5,7 @@
     {
       "tid": "1",
       "title": "一定要来的一带一路创业",
-      "thumbnail": "/static/img/adv.jpg",
+      "thumbnail": "/vue/tp1/static/img/adv.jpg",
       "advertiser": "abc1",
       "read_profit": "8",
       "type": "0",
@@ -15,7 +15,7 @@
     {
       "tid": "2",
       "title": "看看你不确定吗？",
-      "thumbnail": "/static/img/620.jpg",
+      "thumbnail": "/vue/tp1/static/img/620.jpg",
       "advertiser": "abc2",
       "status": "0",
       "type": "1",
@@ -25,7 +25,7 @@
     {
       "tid": "3",
       "title": "一定要来的一带一路创业",
-      "thumbnail": "/static/img/adv.jpg",
+      "thumbnail": "/vue/tp1/static/img/adv.jpg",
       "advertiser": "abc1",
       "read_profit": "8",
       "type": "0",
@@ -35,7 +35,7 @@
     {
       "tid": "4",
       "title": "看看你不确定吗？",
-      "thumbnail": "/static/img/622.jpg",
+      "thumbnail": "/vue/tp1/static/img/622.jpg",
       "advertiser": "abc2",
       "status": "0",
       "type": "1",
@@ -45,7 +45,7 @@
     {
       "tid": "5",
       "title": "一定要来的一带一路创业",
-      "thumbnail": "/static/img/adv.jpg",
+      "thumbnail": "/vue/tp1/static/img/adv.jpg",
       "advertiser": "abc1",
       "read_profit": "8",
       "type": "0",
@@ -55,7 +55,7 @@
     {
       "tid": "6",
       "title": "看看你不确定吗？",
-      "thumbnail": "/static/img/621.jpg",
+      "thumbnail": "/vue/tp1/static/img/621.jpg",
       "advertiser": "abc2",
       "status": "0",
       "type": "1",
